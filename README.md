@@ -8,5 +8,5 @@ For single stage detector, IA is implemented in [MAL](https://openaccess.thecvf.
 
 # Usage
 
-Follow the tutorial in Faster-RCNN [Repository](https://github.com/jwyang/faster-rcnn.pytorch.git). 
+Follow the tutorial in [Faster-RCNN](https://github.com/jwyang/faster-rcnn.pytorch.git). 
 Replace the baseline faster-rcnn.py with IA faster-rcnn.py.
